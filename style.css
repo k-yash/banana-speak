@@ -9,7 +9,8 @@
 
 * {
 	margin: 0;
-	padding: 0; 
+    padding: 0; 
+    box-sizing: border-box;
 }
 
 body{
@@ -62,6 +63,7 @@ main{
     width: 100%;
     overflow: scroll;
     padding: 1rem;
+    font-size: 1.5rem;
     
 }
 
@@ -76,11 +78,6 @@ main{
     
 }
 
-.footer h1{
-    
-    /* font-size: 1.5rem; */
-    /* padding-bottom: 1rem; */
-}
 .footer p {
     max-width: var(--width-break);
     margin:auto;
