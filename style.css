@@ -81,7 +81,7 @@ main{
 }
 
 .footer{
-    position: absolute;
+    position: fixed;
     width: 100%;
     background-color: var(--primary);  
     bottom: 0;
