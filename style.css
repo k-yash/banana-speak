@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    background-color: red;
+    color: white;
+    height: 10vh;
+    margin-top: 0;
+
+}
+.navigation h1{
+    text-align: center;
+}
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+#output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
